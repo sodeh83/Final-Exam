@@ -1,0 +1,9 @@
+C:\Users\1896358\source\repos\finalexam\finalexam\obj\Debug\finalexam.csprojAssemblyReference.cache
+C:\Users\1896358\source\repos\finalexam\finalexam\obj\Debug\finalexam.Form1.resources
+C:\Users\1896358\source\repos\finalexam\finalexam\obj\Debug\finalexam.Properties.Resources.resources
+C:\Users\1896358\source\repos\finalexam\finalexam\obj\Debug\finalexam.csproj.GenerateResource.cache
+C:\Users\1896358\source\repos\finalexam\finalexam\bin\Debug\finalexam.exe.config
+C:\Users\1896358\source\repos\finalexam\finalexam\bin\Debug\finalexam.exe
+C:\Users\1896358\source\repos\finalexam\finalexam\bin\Debug\finalexam.pdb
+C:\Users\1896358\source\repos\finalexam\finalexam\obj\Debug\finalexam.exe
+C:\Users\1896358\source\repos\finalexam\finalexam\obj\Debug\finalexam.pdb
