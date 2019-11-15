@@ -102,7 +102,7 @@ namespace finalexam
                 SaveFileDialog dialog = new SaveFileDialog();
                // DialogResult result = dialog.ShowDialog();
 
-                dialog.InitialDirectory = "C:\\";      
+               // dialog.InitialDirectory = "C:\\";      
                 dialog.Title = "Save text Files";
                 dialog.CheckFileExists = true;
                 dialog.CheckPathExists = true;
@@ -118,6 +118,7 @@ namespace finalexam
                         write.WriteLine(" Owner Info: " + textBox1.Text + textBox2.Text + textBox3.Text +
                                          "\n Car Info:" + comboBox1.SelectedItem.ToString() + comboBox2.SelectedItem.ToString() + comboBox3.SelectedItem.ToString());
                     }
+                    MessageBox.Show("save was successful ");
                 }
             }
           
